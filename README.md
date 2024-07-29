@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fidaa-mahboob
 - 👀 I’m interested in Full Stack Development  
-- 🌱 I’m currently building a project in AWS
 - 📫 How to reach me fidaamahboob@gmail.com
 
 <!---
