@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fidaa-mahboob
 - 👀 I’m interested in Full Stack Development  
 - 📫 How to reach me fidaamahboob@gmail.com
+- I also run a blog called [The Tech Boogle](https://medium.com/the-tech-boogle)
 
 <!---
 fidaa-mahboob/fidaa-mahboob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
